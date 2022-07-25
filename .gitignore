@@ -16,3 +16,4 @@ objc-d-test-*
 
 dub.selections.json
 out/
+.DS_Store
